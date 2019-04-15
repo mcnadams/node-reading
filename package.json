@@ -1,0 +1,20 @@
+{
+  "name": "node-reading",
+  "version": "1.0.0",
+  "description": "The Node Beginner Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcnadams/node-reading.git"
+  },
+  "keywords": [],
+  "author": "Bonnie McNeil <bonniebmcneil@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcnadams/node-reading/issues"
+  },
+  "homepage": "https://github.com/mcnadams/node-reading#readme"
+}
